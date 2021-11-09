@@ -1,0 +1,22 @@
+          LINUX COMMANDS
+1.pwd=print worrking directory
+2.cd=change the directory
+3.touch=create empty file
+4.ls=listing all the files
+5.ls -l=list all the contents one line at a time
+6.ls -lh= displays in human readable format
+7.ls -la=displays the hidden files or folder
+8.ls -ls=displays the files and the sizes
+9.ls -s=displays the size
+10.ls -lhr=it displays in the reversed order of contents
+11.ls -lt=it shows the lastly updated file
+12.ls -R=it displays the contents and folders till to the last
+13.rw =it means the read,write permissions are present but not execute
+14.ls -d=list all the directories
+15.ls -li=displays the index number
+16.grep=it is used for searching
+17.ln=hard link
+18.redirect=>
+19.redirect=>>(does not erase old content)
+20.ls -ltr=reverse the content
+21.cp=rename an existing file
