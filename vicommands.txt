@@ -1,0 +1,20 @@
+      VI COMMANDS
+-----------------------------------------------------------------------------------------------------------------------------
+i=insert at cursor(goes into insert mode)
+3dd=delete 3 lines
+D=Delete contents of line after the cursor
+C=Delete contents of a line after the cursor and insert new text.Press Esc key to end the insertion
+dw=Delete word
+4dw=delete 4 words
+CW=change word
+x=Delete character at the cursor
+r=replace character
+Shift+zz=save the file and quit
+:w=save the file but file will be still open
+:q=Quit without saving
+:wq=save the file and quit
+gg=Take your cursor to the first character of your file
+dG=delete all the lines or text inside your file
+dd=Delete the current line where cursor is present
+u=undo the last change
+U=undo all changes to the entire line
